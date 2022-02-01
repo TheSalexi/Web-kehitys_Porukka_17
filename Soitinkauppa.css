@@ -1,0 +1,16 @@
+.Topbanner{
+    display: flex;
+    flex-direction: row;
+}
+
+.txtbanner{
+    border: #333;
+    border-width: 5px;
+    max-width: 300px;
+    max-height: 350px;
+    min-width: 300px;
+    min-height: 500px;
+    display: flex;
+    background-color: darkkhaki;
+    flex-direction: row;
+}
