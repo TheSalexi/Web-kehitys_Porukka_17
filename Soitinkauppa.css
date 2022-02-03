@@ -14,3 +14,99 @@
     background-color: darkkhaki;
     flex-direction: row;
 }
+
+h1{
+    position: absolute;
+    width: 785.04px;
+    height: 266.87px;
+    left: 543.31px;
+    top: 4px;
+
+    font-family: MonteCarlo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 172.326px;
+    line-height: 293px;
+
+    color: #000000;
+
+    text-shadow: 0px 4.78684px 4.78684px rgba(0, 0, 0, 0.25);
+    }
+
+h2,  {
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 4.78684px 4.78684px rgba(0, 0, 0, 0.25);
+    
+}
+
+h3{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21.5408px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+
+    color: #F2F0F0;
+}
+nav{
+    position: absolute;
+    height: 65.82px;
+    left: 0px;
+    right:0px;
+    top: 343.46px;
+    background: #2C2B2B; 
+}
+
+frame2{
+    position: absolute;
+    height: 441.59px;
+    left: 0px;
+    right: 0px;
+    top: 409.27px;
+    background: #000000;
+}
+
+footer{
+    position: absolute;
+    height: 93.34px;
+    top: 2369px;
+    left: 0px;
+    right: 0px;
+    background: #2C2B2B;
+}
+
+p1{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28.721px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+p2{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.5408px;
+    line-height: 22px;
+    text-align: center;
+
+    color: #F2F0F0;
+}
