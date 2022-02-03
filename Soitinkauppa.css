@@ -62,11 +62,21 @@ h3{
 }
 nav{
     position: absolute;
-    height: 65.82px;
-    left: 0px;
-    right:0px;
-    top: 343.46px;
+    display; flex;
+    flex-direction: row;
+    height: 66px;
+    top: 344px;
     background: #2C2B2B; 
+}
+
+.navbar a{
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21.5408px;
+    line-height: 22px;
+    text-align: center;   
+    color: #F2F0F0;
 }
 
 frame2{
